@@ -1,3 +1,1 @@
-# valentines-card
-# valentines-card
-# valentinecard
+this is a valentines card made for my gf
